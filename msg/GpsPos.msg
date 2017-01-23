@@ -1,0 +1,4 @@
+int64 Time
+float64 Latitude
+float64 Longitude
+float64 Altitude
